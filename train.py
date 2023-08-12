@@ -24,7 +24,7 @@ args = {
     "train_batch_size": 4,
     # accumulation steps
     "gradient_accumulation_steps": 1,
-    "max_steps": 24000,
+    "max_steps": 12000,
 
     # Use text because of grouping by reddit submission
     "dataset_type": "simple",

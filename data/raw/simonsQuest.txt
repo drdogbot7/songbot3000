@@ -1,7 +1,0 @@
-.vscode
-bot_*
-cache_dir
-data/eval.csv
-data/train.csv
-runs
-output

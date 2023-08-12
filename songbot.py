@@ -1,29 +1,28 @@
-from simpletransformers.language_generation import (
-    LanguageGenerationModel,
-    LanguageGenerationArgs
+import argparse
+from generator import generate_song_titles
+
+parser = argparse.ArgumentParser(
+    prog="Song Title Bot 3",
+    description="AI to generate funny song titles"
 )
 
-myArgs = LanguageGenerationArgs
+parser.add_argument('-n', '--number', default=1, type=int)
+parser.add_argument('-p', '--prompt', default='')
+parser.add_argument('-t', '--temperature', default=1.0, type=float)
+# parser.add_argument('-s', '--save', action='store_true')
+args = parser.parse_args()
 
-myArgs.temperature = 1
-
-model = LanguageGenerationModel(
-    "gpt2", "bot_06082023_1827/checkpoint-8000", myArgs
+song_titles = generate_song_titles(
+    number=args.number,
+    temperature=args.temperature,
+    prompt=args.prompt
 )
 
-output = model.generate("<<bst>>",None,False)
+outputFile = open("output/log.txt", "a")
 
-print(output)
+for song_title in song_titles:
+    outputFile.write("\n")
+    outputFile.write(song_title)
+    print(song_title)
 
-string= output[0]
-
-prefix="<<bst>>"
-suffix="<<est>>"
-
-# getting elements in between using split() and join()
-songTitle = ''.join(string.split(prefix)[1].split(suffix)[0])
-
-outputFile = open("output/generated.txt", "a")
-outputFile.write("\n")
-outputFile.write(songTitle)
-outputFile.close()
+print(args)

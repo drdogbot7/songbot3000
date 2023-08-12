@@ -5,3 +5,4 @@ output
 runs
 data/train.csv
 data/eval.csv
+__pycache__
