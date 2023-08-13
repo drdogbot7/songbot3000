@@ -1,8 +1,3 @@
-cache_dir
-.vscode
-bot_*
-output
-runs
-data/train.csv
-data/eval.csv
-__pycache__
+version https://git-lfs.github.com/spec/v1
+oid sha256:f58dff6e6c949f6351ecc5347a39a8d2ded7bfaee103ef82ec794934e27430dc
+size 76
