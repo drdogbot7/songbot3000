@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c235a7a0726b8ea97fbdab6a4b00d50e430ccb5649311be3eadedcc55584937
-size 740
+from flask import Flask, render_template, jsonify, request
+from generator import generate_song_titles
+import asyncio
+from functools import partial
+
+app = Flask(__name__)
+
+# songs = generate_song_titles()
+
+
+@app.route("/")
+def song_bot_web():
+    return render_template('base.html')
+
+
+@app.route('/_do_songs')
+async def do_songs():
+    loop = asyncio.get_running_loop()
+    number = request.args.get('number', 1, type=int)
+    prompt = request.args.get('prompt', "", type=str)
+    temperature = request.args.get('temperature', 1.0, type=float)
+
+    st = partial(generate_song_titles, number=number,
+                 prompt=prompt, temperature=temperature)
+
+    my_result = await loop.run_in_executor(None, st)
+
+    return jsonify(my_result)

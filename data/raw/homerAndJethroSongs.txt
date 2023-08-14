@@ -1,3 +1,502 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b888dd9ff92a3e91504950035575f8860a6756e983e17cbb51aa05b7a9ca2bf0
-size 12129
+(All I Want for Christmas Is) My Upper Plate
+(Don't Telephone, Don't Telegraph) Tell a Woman
+(How Much Is) That Doggie in the Window
+(How Much Is) That Hound Dog in the Window
+(I Love You) For Sentimental Reasons
+(I'm Gonna live in) The Great Society
+(I’m Gettin’) Nuttin’ for Christmas
+(I’m Gonna Live in) The Great Society
+(Put Another Nickel In) Music! Music! Music!
+A Bushel and a Peck
+A Drummer's Nightmare
+A Letter to Ellie Mae (live)
+A Screwball's Love Song
+A Slow Boat to China
+Act Naturally
+After the Hangover's Over
+Alabama Jubilee
+All I Want for Christmas (Is My Upper Plate)
+All Night Long
+Always
+Among My Souvenirs
+Any News From Nashville
+Any News from Nashville?
+Are You Kissing More Now (But Enjoying It Less)
+Are You Lonesome Tonight
+Around the World
+Arrivederci Roma
+At the Flop
+Autumn Leaves
+Baby It's Cold Outside
+Baby It’s Cold Outside
+Baby, It's Cold Outside
+Baby, It’s Cold Outside
+Ballad of Davy Crew-Cut
+Band Introductions (live)
+Battle of Kookamonga
+Baubles, Bangles and Beads
+Bei mir bist Du schön
+Big Bad John (live)
+Bill Bailey
+Billboard Song
+Blue Tail Fly
+Blue Tailed Fly
+Boll Weevil
+Boll Weevil No. 2
+Bread 'n Gravy
+Broadway
+C-Jam Blues
+Cab Driver
+Call Me
+Camp Runamuck
+Charlie Cheated on His Income Tax
+Child Psychology
+Chow Hound’s Lament
+Cielito Lindo
+Cigareetes, Whusky and Wild, Wild Women
+Cold Cold Heart No. 2
+Cold, Cold Heart No. 2
+Come Here Little Wifey!
+Concluded (Side B)
+Cornfucius Say
+Cotton Fields
+Country Girl
+Cousin John and Cousin Mabel
+Cute
+D-I-V-O-R-C-E (B-A-C-O-N & E-G-G-S)
+Daddy Played First Base
+Darlin’ You Look So Good to Me
+Dear Don Bowman
+Dialogue (live)
+Dig Me a Grave in Missouri
+Dipsy Doodle
+Disc Jockey's Nightmare
+Doctor Foo Man Choo
+Doctor Quincy Quack
+Does Anybody Here Play the Piano?
+Does Your Spearmint Lose Its Flavour
+Does the Chewing Gum Lose Its Flavor (on the Bedpost Overnight)
+Does the Spearmint Lose Its Flavor
+Doin’ My Homework (While I Watch TV)
+Don't Be That Way
+Don't Go in the Lion's Cage Tonight
+Don't It Make You Wanna Leave Home
+Don't Let Your Sweet Love Die
+Don't Let the Stars Get in Your Eyeballs
+Don't Monkey Around My Widder
+Don't Sing Along (On Top of Old Smokey)
+Don't Telephone, Don't Telegraph
+Donkey Serenade
+Don’t Jump Off the Roof Dad
+Don’t Let the Stars Get in Your Eyeballs
+Don’t Sing Along (On Top of Old Smoky)
+Down Where the Watermelons Grow
+Down in the Alley
+Drop Dead, Little Darlin’
+Egg Eatin' Dog
+Egg Eatin’ Dog
+El Paso
+El Paso (Numero Dos)
+El Paso - Numero Dos
+Fascination
+Fer the Good Times
+Finished Musicians
+Five Minutes More
+Flat Foot Floogee
+Flat Foot Floogie
+Flower of the Wildwood (live)
+Fly Birdie Fly
+Fly Me to the Moon
+For Sentimental Reasons
+Four Room and Path
+Four Rooms and Path
+Fractured Folk Song
+Freda on the Freeway
+Friendship
+Frosty the De-Frosted Snow Man
+Frosty the Snowman
+Gambler's Git Box
+Glow Worm
+Go to Hal
+Gone
+Gonna Send ’Em Home
+Good Little Boys
+Goodbye Old Booze
+Goodnight Irene
+Great Men Repeat Themselves
+Ground Hog
+Hallelujah I'm a Bum
+Hallelujah I’m a Bum
+Hart Brake Motel
+Hart-Brake Motel
+Have I Stayed Away Too Long
+Have I Told You Lately That I Love You
+Hay Shmo!
+He Loves Me
+He'll Have to Go
+He'll Have to Go (live)
+He's Goin' Down
+Henry's John (live)
+Henry’s John
+Hernando's Hideaway
+Hernando’s Hideaway
+Hey Good Lookin' No. 2
+Hey There
+He’ll Have to Go
+He’s Goin’ Down
+High Geared Daddy
+Hill Billy Hippie
+Hillbilly Hands
+Hillbilly Hippie
+Hold Tight, Hold Tight
+Homer and Jethro Boogie
+Homer and Jethro’s Pickin’ and Singin’ Medley No. 1
+Hootin' Holler Hilton Bar and Grill
+Houn' Dawg
+Houn' Dawg (1)
+Houn' Dawg (Take 2)
+Hound dog in the window
+Houn’ Dawg
+How Come There's No Dog Day?
+How Much Is the Hound Dog in the Window?
+Human Cannon Ball
+Hut Sut Song
+Hut-Sut Song
+I Ain’t Got a Worry in the World
+I Can Do Without Nashville
+I Can Spell Banana
+I Can't Afford to Be a Star
+I Can't Tell My Heart
+I Can’t Afford to Be a Star
+I Couldn't Spell "PFFFT"
+I Couldn't Spell "Pffft"
+I Couldn't Spell Pffft
+I Couldn’t Spell Pffft
+I Crept Into the Crypt and Cried
+I Crept into the Crypt and Cried
+I Don't Give a Hoot (For the Nanny)
+I Don't Think My Gal Loves Me Anymore
+I Don’t Flirt Anymore (I Don’t Hurt Anymore)
+I Fall to Pieces (live)
+I Feel Old Age Creeping On
+I Feel That Old Age Creeping On
+I Got Rhythm
+I Guess Things Happen That Way
+I Haven't te Foggiest
+I Love You Drops
+I Love Your Pizza
+I Never See Maggie Alone
+I Really Don't Want to Know
+I Really Don’t Want to Know
+I Said My Nightshirt (And Put on My Pray'rs)
+I Saw Mommy Kissing Santa Claus
+I Saw Mommy Smoochin' Santa Claus
+I Saw Mommy Smoochin' Santy Claus
+I Taught Her Everything She Knows
+I Upped My Income (Up Yours)
+I Want My Rib
+I Want to Be Happy
+I Want to Go with You
+I Want to Hold Your Hand
+I Wonder Who's Kissing Her Now
+I Wonder Who's Kissing Her Now?
+I Wonder Who’s Kissing Her Now
+I'll Close My Eyes
+I'll Go On A Diet Tomorrow
+I'll Never See Maggie Alone
+I'm Gettin' Older Every Day
+I'm Glad I Waited for You
+I'm Looking Over a Four Leaf Clover
+I'm Movin' on No. 2
+I'm Moving On No.2
+I'm My Own Grandpaw
+I'm Walking Behind You-All
+I'm an Old Cowhand
+I'm in the Mood for Love
+I'm the Guy
+I've Found a New Baby
+I've Got Tears in My Ears (From Lyin' on My Back in My Bed While I Cry Over You)
+I've Got Tears in My Ears From Lying on My Back in Bed While I Cried Over You
+I've Got Tears in My Ears From Lying on My Back in Bed While I Cry Over You
+If Dreams Come True
+If I Were a Bell
+In the Shade of the Old Apple Tree
+Indian Trader
+Introduction
+Introductions
+It Ain't No Fun to Be a Pigeon
+It Ain’t No Fun to Be a Pigeon
+It Bruised Her Somewhat
+It Makes No Difference Now
+It's All Right With Me
+It's a Bloody War
+Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini
+Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
+I’ll Close My Eyes
+I’ll Go Chasin’ Women
+I’m Glad I Waited for You
+I’m Movin’ on No. 2
+I’m in the Mood for Love
+I’ve Got No Use for the Women
+Jam-Bowl-Liar
+Jam-Bowl-Liar (Jambalaya)
+Jimmy Drinks Corn
+Jingle Bells
+Jitterbug Waltz
+Jitterbug Waltz (live)
+Joe Bean
+Keep Them Cold Icy Fingers Off Of Me
+King of the Camp
+Kosher Chitlins
+L' Il Ole Kiss of Fire
+Laugh It Up
+Laugh and Scratch
+Laura
+Let Me Go Blubber
+Let Me Go, Blubber
+Li'l Ole Kiss of Fire
+Life Can Be Miserable
+Like Mother Used t Make
+Lil' Darlin'
+Lil’ Darlin'
+Lil’ Darlin’
+Listen to the Gooney Bird
+Little Arrows
+Little Maggie
+Little Ole Kiss Of Fire
+Liza (All the Clouds'll Roll Away)
+Liza (All the Clouds’ll Roll Away)
+Li’l Ole Kiss of Fire
+Love Is The Craziest Thing
+Love and Marriage
+Lullaby of Bird Dog
+Lying Time (Crying Time)
+Mairzy Doats
+Malady of Love
+Mama Don't Whip Little Buford
+Mama From the Train or (Throw Mama Down the Stairs Her Hat of Blue)
+Mama Get the Hammer (There's a Fly on Papa's Head)
+Mama from the Train (A Kiss, a Kiss)
+Managua, Nicaragua
+Margie
+Medley (live)
+Melody From Raymond
+Mexican Joe
+Middle Aged Teenager
+Middle-Aged Teenager
+Mister Sandman
+Misty
+Monsters of the World, Unite!
+Moon River
+More (Theme from Mondo Cane)
+Mother Goose Is Chicken
+Music Goes 'Round and Around
+My Boss
+My Darling, My Darling
+My Special Angel
+Nanner Puddin'
+Nashville Cats
+Night and Day
+No Hair Sam (Mohair Sam)
+No Matter Where You Go
+Number One Fan
+Nuttin' Fer Christmas
+Nuttin' for Christmas
+Nuttin’ Fer Christmas
+Nuttin’ for Christmas
+Nutty Lady of Shady Lane
+Ode to Don Bowman
+Oh Babe
+Oh Give Me a Home
+Oh Golly, Cornfucius
+Oh Lonesome Me
+Oh My Pappy
+Oh My Pappy!
+Oh That's Terrible
+Oh Top Forty
+Old Grand Dad
+Ol’ Paint
+On a Slow Boat to China
+Once in Love With Amy
+Ooh, That's Corny
+Ornaments
+Over the Rainbow
+Owed to Don Bowman
+Pal‐Yat‐Chee
+Part 1 (Side A)
+Pearl Handled Pocket Knife
+Pennsylvania Turnpike, I Love You
+People Who Like People
+Pizen Pete
+Playin' Checkers With My Poodle
+Playin’ Checkers with My Poodle
+Please Help Me I'm Fallin'
+Please Help Me, I'm Falling
+Please Help Me, I’m Falling
+Poor Little Liza, Poor Girl
+Pore Ol' Koo Liger
+Pore Ol’ Koo-liger
+Pusan U
+Pusan U (Sioux City Sue)
+Put That Knife Away Nellie
+Randolph the Flat-Nosed Reindeer
+Randolph, the Flat-Nosed Reindeer
+Red Roses for a Blue Lady
+Rhythm in My Nursery Rhymes
+Rock Boogie
+Roll On, Deodorant, Roll On
+Rudolph the Red-Nosed Reindeer
+Rye Whiskey
+Sad Movies (Make Me Cry) (live)
+San Antonio Rose
+San Antonio Rose (live)
+Santa Baby
+Santa Claus, the Original Hippie
+Santa baby
+Santa’s Movin’ On
+Santy's Movin' On
+Santy's Movin' On (24 Bit Remastered)
+Santys Movin' On
+Santy’s Movin’ On
+Satin Doll
+Screen Door
+Screen Door (Green Door)
+Second Hundred Years
+Settin' The Woods On Fire No.2
+Settin' The Woods on Fire #2
+Settin' the Woods on Fire No. 2
+She Broke My Heart at Walgreens
+She Loves You
+She Made Toothpicks Out of the Timber of My Heart
+She Made Toothpicks of the Timber of My Heart
+She Thinks I Don't Care
+She Was Bitten on the Udder by an Adder
+She Was Bitten on the Udder by an Adder (live)
+She Went And Gone Away
+Shiny Stockings
+Sifting, Whimpering Sands
+Sink the Bismarck
+Sink the Bismarck (live)
+Sixteen Tons
+Skater’s Waltz
+Slow Poke No. 2
+Slow Poke No.2
+Smellin' Like a Rose
+So Long (It's Been Good to Know Yuh)
+So Long It's Been Good To Know You No.2
+Somethin' Stupid
+Sound Off No. 2
+Sound Off No. 2 (The Duckworth Chant)
+Sound Off No.2 (Duckworth Chant)
+Sow, Sow, Sow Your Oats
+Streets of Weehawken
+Swappin' Partners
+Sweet Fern
+Sweet Violets
+Sweet Words (I Love You)
+Sympathy-Symphonie
+Symphony
+Take the “A” Train
+Tenderly
+Tennessee Border No. 2
+Tennessee Border No.2
+Tennessee Border Number Two
+Tennessee Waltz (live)
+Tennessee, Tennessee
+That Darling Still of Mine
+That Hound Dig in the Window
+That Hound Dog in the Window
+That Little Boy of Mine
+That's Good, That's Bad
+That's Good... That's Bad
+The Bagel Song
+The Ballad o Roger Miller
+The Ballad of Davy Crew-Cut
+The Ballad of Roger Miller
+The Battle of Kookamonga
+The Battle of the Kookamonga
+The Billboard Song
+The Charms of the City Ain't for Me
+The Chase Is On
+The Chase is On
+The Drafted Volunteer
+The Folk Singer Song
+The Frozen Logger
+The Funny Farm
+The Gal from Possum Holler
+The Gal from Possum Holler (The Girl from Ipanema)
+The Great Society
+The Great Society (live)
+The Hootin' Holler Hilton Bar and Grill
+The Huckle Buck
+The Jokin' Kind (live)
+The Jokin’ Kind
+The Lousiest Record
+The Monkey And The Baboon
+The Moon of Manakoora
+The Music Goes Round and Round
+The Night Before Christmas
+The Nite After Christmas
+The Nutty Lady of Shady Lane
+The Old Potato Peel Booze
+The One on the Right Is on the Left
+The Playboy Song
+The Punny Farm
+The Second Hundred Years
+The Shadow of Your Smile (Love Theme from The Sandpiper)
+The Square Song
+The Sweetest Sounds
+The Tattooed Lady
+The Very Thought of You
+The Wedding of Hillbilly Lili Marlene (englisch) ℗ 1949
+The West Virginny Hills
+There Ain’t a Chicken Safe in Tennessee
+There's An Empty Hanger In My Closet Tonight
+There's an Empty Hanger (In My Closet Tonite) (live)
+There’s an Empty Hanger in My Closet Tonight
+They Were Doin’ the Mambo
+Three Little Fishies
+Three Nights Experience
+Tico Tico
+Tiger by the Tail
+Too Old to Cut The Mustard
+Too Young
+Turkish March and Cumana
+Turkish March and Cumana (live)
+Two Tone Shoes
+Unhappy Day
+Upside Down
+Wanted for Murder
+Waterloo
+We Didn't Make It Through th Night
+What Have You Done for Me Lately
+What a Lousy Day Was Yesterday
+When Banana Skins Are Falling
+When It's Long Handle Time in Tennessee
+When It's Long-Handle Time in Tennessee
+When It's Tooth Pickin' Time In False Teeth Valley
+When It's Tooth Pickin' Time in False Teeth Valley
+When It's Toothpickin' Time in False Teeth Valley
+When You Wore a Tulip medley
+When a Man Loves a Woman (The Way That I Love You)
+Whoopee Ti Yi Yo
+Why Don't You Wash Your Feet
+Will You Love Me When
+Winchester Cathedral
+World's Oldest Teenager
+Wreck on the Highway / Boll Weevil
+Yaller Rose of Texas
+Yaller Rose of Texas, You All
+Yaller Rose of Texas, You-All
+You Belong to Me No. 2
+You Know aThousand Ways
+You Made Me Love You
+You Tell Her I Stutter
+You Tell Her, I Stutter
+You Tell Her,I Stutter
+You-Ewe-U
+Your Clobbered Heart
+Your Colbbered Heart
+Your Feet's Too Big
+Your Feets Too Big
+“C” Jam Blues
